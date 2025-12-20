@@ -1,0 +1,53 @@
+; Mono Pixel Cursors Dark
+; v0.1
+; Made in Aseprite
+; Author: Snowy
+
+[Version]
+signature="$CHICAGO$"
+
+[DefaultInstall]
+CopyFiles = Scheme.Cur
+AddReg    = Scheme.Reg
+
+[DestinationDirs]
+Scheme.Cur = 10,"%CUR_DIR%"
+Scheme.Txt = 10,"%CUR_DIR%"
+
+[Scheme.Reg]
+HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",,"%10%\%CUR_DIR%\%pointer%,%10%\%CUR_DIR%\%help%,%10%\%CUR_DIR%\%work%,%10%\%CUR_DIR%\%busy%,%10%\%CUR_DIR%\%cross%,%10%\%CUR_DIR%\%text%,%10%\%CUR_DIR%\%hand%,%10%\%CUR_DIR%\%unavailable%,%10%\%CUR_DIR%\%Vert%,%10%\%CUR_DIR%\%Horz%,%10%\%CUR_DIR%\%Dgn1%,%10%\%CUR_DIR%\%Dgn2%,%10%\%CUR_DIR%\%move%,%10%\%CUR_DIR%\%alternate%,%10%\%CUR_DIR%\%link%,%10%\%CUR_DIR%\%location%,%10%\%CUR_DIR%\%person%"
+
+[Scheme.Cur]
+"1.cur"
+"2.ani"
+"3.ani"
+"4.cur"
+"5.cur"
+"6.cur"
+"7.cur"
+"8.cur"
+"9.cur"
+"10.cur"
+"11.cur"
+"12.cur"
+
+[Strings]
+CUR_DIR = "Cursors\mono_pixel_dark"
+SCHEME_NAME = "Mono Pixel - Dark"
+pointer = "1.cur"
+help = "../aero_helpsel.cur"
+work = "2.ani"
+busy = "3.ani"
+text = "11.cur"
+unavailable = "12.cur"
+vert = "6.cur"
+horz = "7.cur"
+dgn1 = "8.cur"
+dgn2 = "9.cur"
+move = "10.cur"
+link = "4.cur"
+cross = "5.cur"
+hand = "../aero_pen.cur"
+alternate = "../aero_up.cur"
+location = "../aero_pin.cur"
+person = "../aero_person.cur"
