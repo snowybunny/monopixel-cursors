@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/:badgeContent?style=for-the-badge&labelColor=%23f00&color=%23000)
+![Static Badge](https://img.shields.io/badge/windows?style=for-the-badge&labelColor=%23f00&color=%23000)
 
 **Feel free to distribute and use it!**
 
