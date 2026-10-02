@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/windows?style=for-the-badge&labelColor=%23f00&color=%23000)
+![Windows 10/11](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?logo=windows&logoColor=white)
 
 **Feel free to distribute and use it!**
 
